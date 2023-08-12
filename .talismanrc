@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: src/App.js
+  checksum: a9f5bd03341f5f7264003502dc2f5b65ccdb4232b09fdf9232210f855636788d
+- filename: src/components/news-cards/NewsCards.js
+  checksum: a272543fc0e235de342156bacb43ab5f03c953fb9b1c3eba5aa7b3513de35425
+version: "1.0"
